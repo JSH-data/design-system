@@ -1,7 +1,6 @@
 import { Box } from "../box";
 import { ReactNode } from "react";
 import { typoVariants, variantType } from "./typography.css";
-import { vars } from "../../tokens/global.css.ts";
 
 type TypographyProps = {
   children: ReactNode;
