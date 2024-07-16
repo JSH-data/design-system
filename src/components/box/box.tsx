@@ -6,7 +6,7 @@ type HTMLProperties = Omit<
   "as" | "className" | "color" | "height" | "width"
 >;
 
-type BoxProps = HTMLProperties & {
+export type BoxProps = HTMLProperties & {
   as?: ElementType;
   className?: ClassValue;
 };
