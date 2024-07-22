@@ -30,6 +30,7 @@ globalStyle(
 
 globalStyle("body", {
   lineHeight: 1,
+  fontFamily: "Arial, sans-serif",
 });
 
 globalStyle("ol, ul", {
