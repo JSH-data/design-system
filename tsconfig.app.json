@@ -25,7 +25,8 @@
     "baseUrl": ".",
     "paths": {
       "@components/*": ["./src/components/*"],
-      "@css/*": ["./src/css/*"]
+      "@css/*": ["./src/css/*"],
+      "@tokens": ["./src/tokens/index"]
     }
   },
   "include": ["src"]
