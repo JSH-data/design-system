@@ -1,5 +1,5 @@
-import "./tokens/reset.css.ts";
-import "./tokens/global.css.ts";
+import "@css/reset.css";
+import "@css/vars.css";
 import { Card } from "@components/card";
 
 function App() {

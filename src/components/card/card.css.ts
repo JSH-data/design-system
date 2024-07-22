@@ -1,5 +1,5 @@
 import { style } from "@vanilla-extract/css";
-import { vars } from "../../tokens/global.css.ts";
+import { vars } from "../../css/vars.css.ts";
 
 export const container = style({
   padding: 24,

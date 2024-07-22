@@ -1,5 +1,5 @@
 import { style } from "@vanilla-extract/css";
-import { vars } from "../../tokens/global.css";
+import { vars } from "@css/vars.css";
 
 export const container = style({
   justifyContent: "space-between",
